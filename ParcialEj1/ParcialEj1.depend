@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1622157085 source:c:\users\bbedechian\desktop\utn\segundo cuatrimestre\lab de computación ii\parcialej1\main.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	<cstdlib>
+	<cstdio>
+	"Temporizador.h"
+
+1622152611 source:c:\users\bbedechian\desktop\utn\segundo cuatrimestre\lab de computación ii\parcialej1\funciones.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	<cstdlib>
+	<cstdio>
+
+1622156787 c:\users\bbedechian\desktop\utn\segundo cuatrimestre\lab de computación ii\parcialej1\include\temporizador.h
+
+1622157049 source:c:\users\bbedechian\desktop\utn\segundo cuatrimestre\lab de computación ii\parcialej1\src\temporizador.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	<cstdlib>
+	<cstdio>
+	"Temporizador.h"
+
